@@ -1,0 +1,41 @@
+# Build Folders
+bin/
+obj/
+TestResults/
+
+# Migrations (Keep tracked!)
+# Keep Migrations folder if you're using EF Core
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folder
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# Log and cache files
+*.log
+*.cache
+
+# Database files
+*.db
+*.mdf
+*.sqlite
+
+# Secrets & config (optional)
+appsettings.Development.json
+secrets.json
+
+# Node (if using Angular or npm/yarn)
+node_modules/
+dist/
+
+# Others
+*.pdb
+*.DS_Store
+Thumbs.db
