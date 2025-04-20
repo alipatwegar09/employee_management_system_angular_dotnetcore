@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkbxOWfVtZo=",
+  "dgSpecHash": "2ZAmVDg9mlA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj",
+  "projectFilePath": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

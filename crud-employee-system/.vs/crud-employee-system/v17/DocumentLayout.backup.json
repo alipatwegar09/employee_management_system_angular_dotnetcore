@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\",
+  "WorkspaceRootPath": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\crud-employee-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|c:\\users\\hp\\source\\repos\\crud-employee-system\\crud-employee-system\\migrations\\20250417193450_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|d:\\dot net project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\migrations\\20250417193450_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B85B3-D0AB-464F-B017-FEB3F7224E52}|crud-employee-system\\crud-employee-system.csproj|solutionrelative:crud-employee-system\\migrations\\20250417193450_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,64 +42,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "crud-employee-system\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "crud-employee-system\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "crud-employee-system\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "crud-employee-system\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T19:09:36.503Z"
+              "WhenOpened": "2025-04-13T19:29:26.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Program.cs",
               "RelativeDocumentMoniker": "crud-employee-system\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Program.cs",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Program.cs",
               "RelativeToolTip": "crud-employee-system\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAABAMzMzMzMrwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:12:26.361Z"
+              "WhenOpened": "2025-03-12T18:12:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "crud-employee-system.csproj",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj",
+              "RelativeDocumentMoniker": "crud-employee-system\\crud-employee-system.csproj",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj",
+              "RelativeToolTip": "crud-employee-system\\crud-employee-system.csproj",
+              "ViewState": "AgIAAAQAAABAMzMzMzMLwAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T19:31:16.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\appsettings.json",
-              "RelativeDocumentMoniker": "crud-employee-system\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\appsettings.json",
-              "RelativeToolTip": "crud-employee-system\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-17T19:01:33.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\DAL\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "crud-employee-system\\DAL\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\DAL\\EmployeeRepository.cs",
-              "RelativeToolTip": "crud-employee-system\\DAL\\EmployeeRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAJAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "crud-employee-system\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Models\\Employee.cs",
+              "RelativeToolTip": "crud-employee-system\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA6wAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:31:49.535Z",
+              "WhenOpened": "2025-04-13T19:32:16.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "20250417193450_InitMigration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Migrations\\20250417193450_InitMigration.cs",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Migrations\\20250417193450_InitMigration.cs",
               "RelativeDocumentMoniker": "crud-employee-system\\Migrations\\20250417193450_InitMigration.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Migrations\\20250417193450_InitMigration.cs",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Migrations\\20250417193450_InitMigration.cs",
               "RelativeToolTip": "crud-employee-system\\Migrations\\20250417193450_InitMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,39 +110,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "crud-employee-system\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Models\\Employee.cs",
-              "RelativeToolTip": "crud-employee-system\\Models\\Employee.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\DAL\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "crud-employee-system\\DAL\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\DAL\\EmployeeRepository.cs",
+              "RelativeToolTip": "crud-employee-system\\DAL\\EmployeeRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:32:16.845Z"
+              "WhenOpened": "2025-04-13T19:31:49.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "crud-employee-system\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "crud-employee-system\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:29:26.969Z"
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\appsettings.json",
+              "RelativeDocumentMoniker": "crud-employee-system\\appsettings.json",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\appsettings.json",
+              "RelativeToolTip": "crud-employee-system\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T19:01:33.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "crud-employee-system.csproj",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj",
-              "RelativeDocumentMoniker": "crud-employee-system\\crud-employee-system.csproj",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\crud-employee-system\\crud-employee-system\\crud-employee-system.csproj",
-              "RelativeToolTip": "crud-employee-system\\crud-employee-system.csproj",
-              "ViewState": "AgIAAAQAAABAMzMzMzMLwAwAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T19:31:16.237Z"
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "crud-employee-system\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dot Net Project\\src\\employee_management_system_angular_dotnetcore\\crud-employee-system\\crud-employee-system\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "crud-employee-system\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:09:36.503Z"
             }
           ]
         }

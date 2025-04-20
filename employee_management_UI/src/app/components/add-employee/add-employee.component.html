@@ -1,1 +1,51 @@
-<p>add-employee works!</p>
+<div class="p-8 mt-4">
+  @if(!isEdit){
+    <h4>Add New Employee</h4>
+  }
+  @else{
+    <h4>Edit Employee</h4>
+  }
+
+  <form [formGroup]="employeeform" (ngSubmit)="formSubmit()">
+  <div class="shadow p-6">
+    <div>
+    <mat-form-field class="w-full">
+      <mat-label>Name</mat-label>
+      <input type="text" matInput placeholder="Enter Name" formControlName="name" />
+    </mat-form-field>
+  </div>
+  <div>
+    <mat-form-field class="w-full">
+      <mat-label>Email</mat-label>
+      <input type="email" matInput placeholder="Ex. pat@example.com" formControlName="email" />
+    </mat-form-field>
+  </div>
+  <div>
+    <mat-form-field class="w-full">
+      <mat-label>Phone</mat-label>
+      <input type="string" matInput placeholder="Enter Phone No." formControlName="phone" />
+    </mat-form-field>
+  </div>
+  <div>
+    <mat-form-field class="w-full">
+      <mat-label>Age</mat-label>
+      <input type="number" matInput placeholder="Enter Age" formControlName="age"/>
+    </mat-form-field>
+  </div>
+  <div>
+    <mat-form-field class="w-full">
+      <mat-label>salary</mat-label>
+      <input type="number" matInput placeholder="Enter salary" formControlName="salary" />
+    </mat-form-field>
+  </div>
+  <div class="flex justify-center">
+    @if(!isEdit){
+    <button mat-raised-button color="primary" [disabled]="!employeeform.valid">Save</button>
+    }@else {
+      <button mat-raised-button color="primary" [disabled]="!employeeform.valid">Update</button>
+    }
+  </div>
+</div>
+</form>
+
+</div>

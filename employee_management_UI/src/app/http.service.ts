@@ -14,4 +14,20 @@ export class HttpService {
   getAllEmployee(){
     return this.http.get<IEmployee[]>(this.apiurl + "/api/employee");
   }
+
+  addEmployee(employee:IEmployee)
+  {
+    return this.http.post(this.apiurl+"/api/employee",employee)
+  }
+
+  getEmployee(employeeId:number){
+    return this.http.get<IEmployee>(this.apiurl+"/api/employee/"+employeeId)
+  }
+  UpdateEmployee(id:number,employee:IEmployee){
+    console.log(id, employee)
+    return this.http.put<IEmployee>(this.apiurl+"/api/employee/"+id,employee)
+  }
+  deleteEmployee(employeeId:number){
+    return this.http.delete<IEmployee>(this.apiurl+"/api/employee/"+employeeId)
+  }
 }
